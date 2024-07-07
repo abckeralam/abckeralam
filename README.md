@@ -1,8 +1,7 @@
 - 👋 Hi, I’m subeesh
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me spbusiness71@gmail.com
+- 👀 I’m interested in App development
+- 🌱 I’m currently learning flutter
+- 📫 How to reach me abckeralamm@gmail.com
 
 <!---
 abckeralam/abckeralam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
